@@ -1,11 +1,11 @@
 {
     "Age": 21,
-    "Name": "chaitanya",
+    "Name": "Chaitanya",
     "courses": [
         "DSA",
-        "CN",
+        "Cn",
         "OS",
-        "AI"
+        "Ai"
     ],
     "present": true
 }
