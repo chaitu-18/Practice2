@@ -1,0 +1,11 @@
+{
+    "Age": 21,
+    "Name": "chaitanya",
+    "courses": [
+        "DSA",
+        "CN",
+        "OS",
+        "AI"
+    ],
+    "present": true
+}
